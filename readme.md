@@ -13,4 +13,3 @@ The Power of Small Changes
 
 ## 访问
 
-[forguo.cn](https://forguo.cn)
