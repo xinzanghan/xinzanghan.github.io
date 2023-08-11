@@ -2,7 +2,7 @@ import { defineConfig, UserConfig } from 'vitepress'
 import head from './config/head'
 import nav from './config/nav'
 import sidebar from './config/sidebar'
-const pkg = require('../package.json')
+import pkg from '../package.json'
 const config: UserConfig = {
     title: '学习笔记',
     description: '一个前端工程师的自我修养',
