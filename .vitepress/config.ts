@@ -30,7 +30,7 @@ const config: UserConfig = {
             text: 'Edit this page on GitHub'
         },
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/wforguo/' }
+            { icon: 'github', link: 'https://github.com/xinzanghan/' }
         ],
         search: {
             provider: 'local',
