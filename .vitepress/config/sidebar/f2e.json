@@ -1,4 +1,13 @@
 [
+  {
+    "text": "HTML / CSS",
+    "collapsed": false,
+    "items": [
+      { "text": "HTML 理论知识点", "link": "/f2e/html/" },
+      { "text": "CSS 理论知识点", "link": "/f2e/css/" },
+      { "text": "BEM", "link": "/f2e/bem/" }
+    ]
+  },
      {
       "text": "JavaScript 基础知识",
       "collapsed": false,
@@ -11,7 +20,20 @@
       ]
     },
     {
-      "text": "ES6 常用知识点",
+      "text": "ES6 知识点",
       "link": "/f2e/es6/"
+    },
+    {
+      "text": "TypeScript",
+      "link": "/f2e/typescript/base"
+    },
+    {
+      "text": "前端概念知识点",
+      "collapsed": false,
+      "items": [
+        { "text": "模块化相关", "link": "/f2e/concept/module" },
+        { "text": "前端页面渲染方式", "link": "/f2e/concept/page-rendering" }
+      ]
     }
+   
 ]
