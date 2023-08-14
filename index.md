@@ -10,7 +10,7 @@ hero:
     alt: 心脏涵~
   actions:
     - text: 个人笔记
-      link: /fe/es6/
+      link: /f2e/javascript/types
     - text: 前端导航
       link: /nav
       theme: alt
@@ -21,7 +21,7 @@ features:
   - icon: 📖
     title: 个人笔记
     details: 整理前端常用知识点<small>（面试八股文）</small><br />如有异议按你的理解为主，不接受反驳
-    link: /fe/javascript/types
+    link: /f2e/javascript/types
     linkText: 前端常用知识
   - icon: 🛠️
     title: Workflow
