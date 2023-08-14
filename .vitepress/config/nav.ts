@@ -4,6 +4,7 @@
 const pkg = require('../../package.json')
 
 const nav = [
+    { text: '导航', link: '/nav', activeMatch: '^/nav' },
     {
         text: "博文",
         link: "/f2e/知识体系",

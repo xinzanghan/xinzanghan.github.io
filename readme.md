@@ -1,7 +1,7 @@
 
 一个前端开发的自我修养
 
-![favicon](https://forguo.cn/favicon.ico)
+![favicon](https://xinzanghan.github.io/favicon.ico)
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen?logo=github)](http://commitizen.github.io/cz-cli/)
 
