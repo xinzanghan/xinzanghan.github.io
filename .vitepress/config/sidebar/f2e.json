@@ -34,6 +34,15 @@
         { "text": "模块化相关", "link": "/f2e/concept/module" },
         { "text": "前端页面渲染方式", "link": "/f2e/concept/page-rendering" }
       ]
+    },
+    {
+      "text": "浏览器与网络",
+      "collapsed": false,
+      "items": [
+        { "text": "浏览器相关知识点", "link": "/f2e/browser/" },
+        { "text": "TCP", "link": "/f2e/network/tcp" },
+        { "text": "HTTP", "link": "/f2e/network/http" }
+      ]
     }
    
 ]
