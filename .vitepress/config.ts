@@ -4,8 +4,8 @@ import nav from './config/nav'
 import sidebar from './config/sidebar'
 import pkg from '../package.json'
 const config: UserConfig = {
-    title: '学习笔记',
-    description: '一个前端工程师的自我修养',
+    title: '心脏涵~',
+    description: '个人笔记',
     lang: 'zh-CN',
     lastUpdated: true,
     ignoreDeadLinks: true,
